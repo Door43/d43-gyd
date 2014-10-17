@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gyd:home|Door43 (gyd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gyd|d43-gyd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gyd/archive/master.zip|d43-gyd.zip]]
+
+**Recent Changes**
+{{changes>ns = gyd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gyd|Ethnologue data]]
+
